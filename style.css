@@ -1,0 +1,20 @@
+
+h2{
+    text-align: center;
+}
+
+#jokes{
+    margin: 0 auto;
+    width: 300px;
+    height: auto;
+    border: 1px solid black;
+}
+
+.pregunta{
+    text-align: center;
+}
+
+.respuesta{
+    color: red;
+    text-align: center;
+}
